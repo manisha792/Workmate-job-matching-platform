@@ -1,0 +1,16 @@
+id,title,description,location,pay,provider_id,status,assigned_student_id
+1,Tutor Needed,Math tutoring for high school student,New York,25,1,available,
+2,Delivery Assistant,Help with local deliveries,Brooklyn,18,2,available,
+3,Event Staff,Assist with weekend event,Manhattan,22,1,applied,11
+4,Data Entry,Part-time remote data entry,Queens,20,3,applied,11
+5,Research Assistant,Academic research support,Bronx,30,2,applied,11
+6,Graphic Designer,Create marketing materials for startup,Manhattan,35,1,available,
+7,Social Media Manager,Manage Instagram and Facebook accounts,Brooklyn,22,2,available,
+8,Photography Assistant,Help with wedding photography,Queens,28,3,available,
+9,Content Writer,Blog posts and website content,New York,24,1,available,
+10,Event Coordinator,Plan and execute corporate events,Manhattan,32,2,available,
+11,Web Developer,Frontend development for small business,Brooklyn,40,3,available,
+12,Customer Service Rep,Answer phones and emails,Queens,18,1,available,
+13,Barista,Part-time coffee shop work,New York,16,2,available,
+14,Pet Sitter,Take care of dogs and cats,Brooklyn,20,3,available,
+15,House Cleaner,Weekly house cleaning service,Manhattan,25,1,available,

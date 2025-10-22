@@ -1,0 +1,11 @@
+id,name,email,password,company
+1,Alice Brown,alice@company.com,password123,Education Services
+2,Bob Wilson,bob@services.com,password123,Local Deliveries Inc
+3,Carol Davis,carol@tech.com,password123,Tech Solutions
+4,Robert Smith,robert@startup.com,password123,StartupHub
+5,Maria Rodriguez,maria@events.com,password123,Event Masters
+6,James Lee,james@creative.com,password123,Creative Agency
+7,Jennifer Taylor,jennifer@retail.com,password123,Retail Solutions
+8,Michael Chang,michael@hospitality.com,password123,Hospitality Group
+9,Amanda White,amanda@consulting.com,password123,Business Consulting
+10,Daniel Kim,daniel@digital.com,password123,Digital Marketing Co

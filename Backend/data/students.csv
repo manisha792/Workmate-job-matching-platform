@@ -1,0 +1,10 @@
+id,name,email,password,location,bio,rating,jobs_completed
+1,John Doe,john@email.com,password123,New York,Computer Science student with experience in web development,4.5,3
+2,Jane Smith,jane@email.com,password123,Brooklyn,Engineering student passionate about technology and innovation,4.2,2
+3,Mike Johnson,mike@email.com,password123,Manhattan,Business student with strong communication skills,4.8,5
+4,Sarah Wilson,sarah@email.com,password123,Queens,Art student specializing in graphic design and photography,4.0,1
+5,David Brown,david@email.com,password123,Bronx,Marketing student with social media expertise,3.8,2
+6,Lisa Garcia,lisa@email.com,password123,Manhattan,Psychology student interested in customer service,4.3,4
+7,Alex Chen,alex@email.com,password123,Brooklyn,Computer Science major with full-stack development skills,4.6,3
+8,Emma Davis,emma@email.com,password123,New York,English Literature student with strong writing abilities,4.1,2
+9,Tom Wilson,tom@email.com,password123,Queens,Finance student with analytical skills,4.4,3
