@@ -7,7 +7,7 @@
         "builder": "NIXPACKS"
       },
       "deploy": {
-        "startCommand": "python app.py",
+        "startCommand": "python start.py",
         "restartPolicyType": "ON_FAILURE",
         "healthcheckPath": "/"
       },
@@ -23,12 +23,12 @@
         "builder": "NIXPACKS"
       },
       "deploy": {
-        "startCommand": "npm run start",
+        "startCommand": "npm run build && npm run preview",
         "restartPolicyType": "ON_FAILURE",
         "healthcheckPath": "/"
       },
       "env": {
-        "VITE_API_URL": "https://workmate-backend-production.up.railway.app"
+        "VITE_API_URL": "https://workmate-backend-production.up.railway.app/api"
       }
     }
   ]
